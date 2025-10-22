@@ -66,7 +66,7 @@ I’m passionate about **developing IoT systems** and **software solutions**, an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 
   <!-- Cloud & APIs -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Cloudinary_logo_blue_0720_2x.png" alt="Cloudinary" width="512" height="40"/>
+  <img src="https://logowik.com/content/uploads/images/cloudinary-icon8821.logowik.com.webp" alt="Cloudinary" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
 
