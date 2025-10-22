@@ -3,6 +3,7 @@
 ### 👨‍💻 About Me
 I’m a passionate **Software and IoT Developer** who loves building practical and impactful technology — from smart IoT systems to full-stack web and mobile applications.  
 I’m currently focused on expanding my technical expertise across cloud infrastructure, scalable applications, and IoT innovation.
+i'm also active in leadership such as MPP(Student Representative Council) for two years in University Utara Malaysia
 
 ---
 
@@ -40,7 +41,6 @@ I’m passionate about **developing IoT systems** and **software solutions**, an
 ---
 
 ### 🧰 Skills & Tools
-### 🧰 Skills & Tools
 <p align="left">
   <!-- Core Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -63,11 +63,10 @@ I’m passionate about **developing IoT systems** and **software solutions**, an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 
   <!-- Cloud & APIs -->
-  <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1643050184/brand/Cloud%20Glyph/cloudinary_icon_blue.svg" alt="Cloudinary" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Cloudinary_logo_blue_0720_2x.png" alt="Cloudinary" width="512" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
 
@@ -85,7 +84,13 @@ I’m passionate about **developing IoT systems** and **software solutions**, an
 
 | Project | Description | Stack | Link |
 |----------|--------------|--------|------|
-| Coming soon | 🚧 | 🚧 | 🚧 |
+| Property Sales and Rent | Sale,Rent,Owner,Agency  | MERN,Cloudinary,Clerk | Will be put soon |
+| TrailBeacon | Track Hiker when there are no signal using IoT  | Firebase,MERN | Will be put soon  |
+| MemberShip App | Application for club membership . It has Payment Intergation,Voting,Sell Product,Newsletter,Event, and many more  | Flutter,Php | Will be put soon  |
+| Scanify | Free Application like CamScanner but Free and no hosting needed  | Flutter bloc implemented | Will be put soon |
+| Bakery System | Website for Bakery to Sell their goods, manage their internal system like baking,recipe,POS and Etc  | react,nodejs and etc | Will be put soon |
+| KahwinSettle | Marriage Management System in mobile  | flutter+getx and etc | Will be put soon |
+
 
 ---
 
