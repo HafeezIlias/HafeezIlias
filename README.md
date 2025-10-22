@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me
 I’m a passionate **Software and IoT Developer** who loves building practical and impactful technology — from smart IoT systems to full-stack web and mobile applications.  
 I’m currently focused on expanding my technical expertise across cloud infrastructure, scalable applications, and IoT innovation.
-i'm also active in leadership such as MPP(Student Representative Council) for two years in University Utara Malaysia
+I'm also active in leadership such as MPP(Student Representative Council) for two years in University Utara Malaysia
 
 ---
 
